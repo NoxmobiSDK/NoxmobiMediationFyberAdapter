@@ -1,0 +1,6 @@
+framework module NoxmobiMediationFyberAdapter {
+  umbrella header "NoxmobiMediationFyberAdapter.h"
+
+  export *
+  module * { export * }
+}
