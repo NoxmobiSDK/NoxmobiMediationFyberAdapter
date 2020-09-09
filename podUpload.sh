@@ -6,7 +6,7 @@ PodName="NoxmobiMediationFyberAdapter"
 
 echo "\n🔥当前版本号："
 # 打印一下当前情况
-sed -n '/Mark/ p' $PodName.podspec
+sed -n '/MarkMark/ p' $PodName.podspec
 
 # ===============验证语法============================
 
