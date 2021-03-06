@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationFyberAdapter"
-  spec.version      = "7.7.3.0" # MarkMark
+  spec.version      = "7.8.1.0" # MarkMark
   spec.summary      = "Noxmobi ad mediation adapter for Fyber."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationFyberAdapter"
   spec.license      = "MIT"
@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationFyberAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "Fyber_Marketplace_SDK", "7.7.3"
+  spec.dependency "Fyber_Marketplace_SDK", "7.8.1"
 
 end
