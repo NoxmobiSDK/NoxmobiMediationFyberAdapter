@@ -9,6 +9,6 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationFyberAdapterVersion @"8.1.3.0"
+#define NoxmobiMediationFyberAdapterVersion @"8.1.5.0"
 
 
